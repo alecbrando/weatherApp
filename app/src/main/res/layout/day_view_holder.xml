@@ -7,15 +7,19 @@
 
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/day_time_holder"
+        android:textColor="@color/white"
         android:layout_width="wrap_content"
         android:layout_margin="20dp"
+        android:textSize="20sp"
         android:layout_height="wrap_content"
         />
 
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/day_temp_holder"
+        android:textColor="@color/white"
         android:layout_width="wrap_content"
         android:layout_margin="20dp"
+        android:textSize="20sp"
         android:layout_height="wrap_content"
         />
 
